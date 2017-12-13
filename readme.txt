@@ -6,3 +6,6 @@ Git tracks changes of files.
 add a new merge
 I'm working.
 Here is dev branch
+
+
+test multi-files-modify
